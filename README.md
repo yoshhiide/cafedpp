@@ -1,5 +1,5 @@
 # cafedpp
-Caffeinate DPP Batch process
+Caffeinate DPP(Digital Photo Professional 4) Batch process
 
 # usage
 1. add code to `.zshrc`
